@@ -1,0 +1,1 @@
+import{m as o}from"/build/_shared/chunk-GMRJTKSK.js";import{c as e}from"/build/_shared/chunk-Q3IECNXJ.js";var c=e(o());function l({children:n}){return(0,c.jsx)("div",{className:"h-screen w-full bg-blue-600 font-mono",children:n})}export{l as a};
